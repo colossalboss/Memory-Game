@@ -34,10 +34,11 @@ const icons = [
 
 
  function init() {
-   for (let i = 0; i < icons.length; i++) {
+   let collection = shuffle(icons);
+   for (let i = 0; i < collection.length; i++) {
      const card = document.createElement('li');
      card.classList.add('card');
-     card.innerHTML = `<i class="${icons[i]}"></i>`;
+     card.innerHTML = `<i class="${collection[i]}"></i>`;
      container.appendChild(card);
 
     click(card);
