@@ -210,6 +210,8 @@ restartBtn.addEventListener('click', playAgain);
  function playAgain() {
   // clear all cards
   container.innerHTML = '';
+  // stop timer
+  stop();
   // create new cards
   init();
 
