@@ -24,5 +24,3 @@ The objective of the game is to match all cards by clicking to show the hidden i
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
-
