@@ -2,19 +2,27 @@
 
 ## Table of Contents
 
+* [Description](#Description)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Features](#Features)
+
+## Screenshot
+
+![memory game](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/589bb972_screen-shot-2017-02-07-at-3.03.15-pm/screen-shot-2017-02-07-at-3.03.15-pm.png)
+
+## Description
+
+Memory game Project is one of the projects in Udacity's Front-End Nanodegree program. This game was built using HTML, CSS and JavaScript.
+
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+The objective of the game is to match all cards by clicking to show the hidden icons on the cards. The game is won when all cards are matched.
 
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
