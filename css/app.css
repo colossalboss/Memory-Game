@@ -111,3 +111,29 @@ h1 {
     float: right;
     cursor: pointer;
 }
+
+#over {
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+
+#again {
+    background-color: green;
+    color: #fff;
+    padding: 8px;
+}
+
+#again:hover {
+    cursor: pointer;
+}
+
+.rate li {
+    list-style: none;
+    display: inline;
+    
+}
+
+.red {
+    background-color: red !important;
+}
